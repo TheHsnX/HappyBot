@@ -53,10 +53,10 @@ python app.py
 - **DeepSeek LLM** - AI model for language processing
 - **LangChain** - Used for RAG implementation
 - **FastAPI/Flask** - Backend framework (mention the one used)
-- **Vector Databases** - (e.g., FAISS, ChromaDB) for efficient retrieval
+- **Vector Databases** - FAISS for efficient retrieval
 
 ## 📌 Future Improvements
-- 🔹 Support for multiple file formats (DOCX, CSV, etc.)
+- 🔹 Support for multiple file formats (DOCX, CSV, PDF)
 - 🔹 Multi-user chat sessions
 - 🔹 API integration for third-party apps
 
@@ -68,4 +68,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 ### ✨ Created by [Hassan](https://github.com/TheHsnX) 🚀
+If you find this repo insightfull don't forget to follow it.
 
