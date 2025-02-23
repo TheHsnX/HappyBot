@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Run the Application
 ```bash
-python app.py
+python main.py
 ```
 
 ## 🛠️ How It Works
@@ -52,7 +52,7 @@ python app.py
 - **Python** - Core programming language
 - **DeepSeek LLM** - AI model for language processing
 - **LangChain** - Used for RAG implementation
-- **FastAPI/Flask** - Backend framework (mention the one used)
+- **Streamlit** - Frontend framework 
 - **Vector Databases** - FAISS for efficient retrieval
 
 ## 📌 Future Improvements
