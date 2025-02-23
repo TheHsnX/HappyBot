@@ -48,11 +48,6 @@ python app.py
 - **Customer Support** - Answer FAQs using company documentation.
 - **Educational Tool** - Summarize complex topics from web sources.
 
-## 🖼️ Interface Preview
-*(Paste your interface image below)*
-
-![Interface Preview](path/to/your/interface/image.png)
-
 ## 🤖 Technologies Used
 - **Python** - Core programming language
 - **DeepSeek LLM** - AI model for language processing
